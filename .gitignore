@@ -2,14 +2,14 @@
 
 # dependencies
 /front/node_modules
-/.pnp
+/front/.pnp
 .pnp.js
 
 # testing
-/coverage
+/front/coverage
 
 # production
-/build
+/front/build
 
 # misc
 .DS_Store
